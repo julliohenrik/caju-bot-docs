@@ -1,7 +1,9 @@
 site_name: CAJU Robot Docs
 
 nav:
-  - Home: index.md
+  - Início: 
+    - index.md
+    - visao-geral.md
 
 theme:
   name: readthedocs
