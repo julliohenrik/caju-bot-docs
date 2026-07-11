@@ -1,1 +1,8 @@
 site_name: CAJU Robot Docs
+
+nav:
+  - Home: index.md
+
+theme:
+  name: readthedocs
+  highlightjs: false
