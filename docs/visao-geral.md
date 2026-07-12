@@ -41,8 +41,10 @@ Não é mais necessário, faremos dessa forma (dia/mês/ano).
 10. Conecte os fios à Ponte H;
 11. Escreva um script de teste para GPIO (exemplo no apêndice dessa página);
 
-### Observações:
+### Observações
 
 A base pode ser circular ou retangular. Dependerá da nossa preferência. Essa base provavelmente terá furos intencionais para podermos instalar os componentes com parafusos.
+
 Um carregador portátil é mencionado, porém não é de certeza sua utilização no nosso caso.
+
 Fios podem ser soldados ou enrolados. Vermelho: energia; preto: aterramento.
