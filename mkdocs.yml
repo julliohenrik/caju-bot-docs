@@ -4,6 +4,9 @@ nav:
   - Início: 
     - index.md
     - visao-geral.md
+  - Apêndices:
+      - apend/ex-script.md
+      - apend/recursos.md
 
 theme:
   name: readthedocs
