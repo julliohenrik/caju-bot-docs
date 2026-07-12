@@ -4,7 +4,7 @@ Essa página esboça um plano de como faremos e o que devemos estudar para criar
 
 Note que esse plano foi construído como uma aproximação do que precisaremos, e não é definitivo que iremos utilizar exatamente o que se descreve aqui. A primeira versão desse documento foi escrita em 12/07/2026. Toda e qualquer alteração ou apêndice a este ou a outro documento deve ser, também, documentado, como:
 
-~~Precisaremos de certo material, etc.~~
+<s>Precisaremos de certo material, etc.</s> <br>
 Não é mais necessário, faremos dessa forma (dia/mês/ano).
 
 ### Sumário
