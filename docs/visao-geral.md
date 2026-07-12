@@ -10,22 +10,22 @@ Não é mais necessário, faremos dessa forma (dia/mês/ano).
 ### Sumário
 
 1.  Modelagem das peças com Tinkercad
-  1.  Base;
-  2.  2 Rodas (paralelas); e
-  3.  1 Roda burra de apoio;
+    1.  Base;
+    2.  2 Rodas (paralelas); e
+    3.  1 Roda burra de apoio;
 2.  Circuito e componentes
-  1.  1 Raspberry PI;
-  2.  1 Caixa para nosso Raspberry;
-  3.  1 Ponte H;
-  4.  2 Motores DC;
-  5.  1 Módulo para 4 baterias AA;
-  6.  1 Carregador portátil com micro-USB;
-  7.  Fita dupla-face; e
-  8.  Fios: pelo menos 4 fêmea-fêmea, 1 macho-fêmea, e 4 descascados.
+    1.  1 Raspberry PI;
+    2.  1 Caixa para nosso Raspberry;
+    3.  1 Ponte H;
+    4.  2 Motores DC;
+    5.  1 Módulo para 4 baterias AA;
+    6.  1 Carregador portátil com micro-USB;
+    7.  Fita dupla-face; e
+    8.  Fios: pelo menos 4 fêmea-fêmea, 1 macho-fêmea, e 4 descascados.
 3.  Programa para controlar os motores
-  1. Python;
-  2. Livraria gpiozero com backend da lgpio; e
-  3. Deve ser instalado na placa principal.
+    1. Python;
+    2. Livraria gpiozero com backend da lgpio; e
+    3. Deve ser instalado na placa principal.
 
 ### Passo a passo grosseiro
 
